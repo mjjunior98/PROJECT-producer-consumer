@@ -31,9 +31,9 @@ This project is a complete implementation of the classic Producer-Consumer Probl
 - README.md                   # This file
 
 Sample Output (Consumer)
-text==================================================
-Student Name: Eve Johnson
-Student ID: 48392017
+- ==================================================
+- Student Name: Eve Johnson
+- Student ID: 48392017
 Programme: BSc IT
 Courses and Marks:
   - Programming: 78
@@ -41,6 +41,6 @@ Courses and Marks:
   - Networking: 65
   - Web Development: 88
   - Algorithms: 54
-Average Mark: 75.40
-Result: PASS
-==================================================             
+-        Average Mark: 75.40
+-        Result: PASS
+- ==================================================             
