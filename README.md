@@ -20,14 +20,15 @@ This project is a complete implementation of the classic Producer-Consumer Probl
 
  Folder Structure
  it-producer-consumer/
-├── shared_folder/              # Created at runtime – holds XML files
-├── itstudent.py                # ITstudent class + XML (un)marshalling
-├── main.py                     # Threaded version (Producer + Consumer in one process)
-├── producer.py                 # Standalone producer (for separate testing)
-├── consumer.py                 # standalone consumer
-├── socket_producer.py          # Part 3 – Socket-based producer
-├── socket_consumer.py          # Part 3 – Socket-based consumer
-├── README.md                   # This file
+ 
+shared_folder/              # Created at runtime – holds XML files
+itstudent.py                # ITstudent class + XML (un)marshalling
+main.py                     # Threaded version (Producer + Consumer in one process)
+producer.py                 # Standalone producer (for separate testing)
+consumer.py                 # standalone consumer
+socket_producer.py          # Part 3 – Socket-based producer
+socket_consumer.py          # Part 3 – Socket-based consumer
+README.md                   # This file
 
 Sample Output (Consumer)
 text==================================================
